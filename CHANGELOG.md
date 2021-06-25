@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## [0.0.1] - 2021-06-25
+### Fixed
+- The javascript not being connected to the HTML
+
 ## [0.0.0] - 2021-06-25
 ### Added
 - Buttons to draw and sell
